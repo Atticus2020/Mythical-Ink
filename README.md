@@ -1,7 +1,7 @@
 # Mythical-Ink (Javascript, CSS, HTML)
-This is a HTML, CSS, and Javascript project I made during univeristy for my Web Design class. It has three seperate pages, each simualting a front landing page, a stock page, and a purchase page. The three icons on the top right are hyperlinks that allow you to load the other pages.
+HTML, CSS, and Javascript project I made during univeristy for my Web Design class. It has three seperate pages, each simualting a front landing page, a stock page, and a purchase page. The three icons on the top right are hyperlinks that allow you to load the other pages.
 
-_DISCLAIMER: I DO NOT OWN THE ART IN THIS PROJECT OR MAKE MONEY OFF THE ARTISTIC ASSETS IN ANY WAY. _**THE "Store" page doesn't actually allow you to purchase anything.**
+DISCLAIMER: I DO NOT OWN THE ART IN THIS PROJECT OR MAKE MONEY OFF THE ARTISTIC ASSETS IN ANY WAY. **THE "Store" page doesn't actually allow you to purchase anything.**
 
 Here is the Landing Page:
 <img width="1798" height="1016" alt="image" src="https://github.com/user-attachments/assets/29ba1afd-6886-4113-b989-75d90c240f29" />
